@@ -1,5 +1,16 @@
 import { nanoid } from "nanoid";
-import { FaCss3, FaHtml5, FaJs, FaNodeJs, FaReact } from "react-icons/fa";
+import {
+  FaAngular,
+  FaAws,
+  FaCss3,
+  FaGit,
+  FaHtml5,
+  FaJava,
+  FaJs,
+  FaNodeJs,
+  FaPython,
+  FaReact,
+} from "react-icons/fa";
 import portfolioCover from "./assets/portfolioProjectCover.png";
 import taskManagerAPI from "./assets/taskManagerAPI.png";
 import storeApi from "./assets/storeAPI.svg";
@@ -37,6 +48,31 @@ export const skills = [
     id: nanoid(),
     title: "Node.js",
     icon: <FaNodeJs className="h-16 w-16 text-violet-600" />,
+  },
+  {
+    id: nanoid(),
+    title: "Java",
+    icon: <FaJava className="h-16 w-16 text-violet-600" />,
+  },
+  {
+    id: nanoid(),
+    title: "Angular",
+    icon: <FaAngular className="h-16 w-16 text-violet-600" />,
+  },
+  {
+    id: nanoid(),
+    title: "Python",
+    icon: <FaPython className="h-16 w-16 text-violet-600" />,
+  },
+  {
+    id: nanoid(),
+    title: "AWS EC2",
+    icon: <FaAws className="h-16 w-16 text-violet-600" />,
+  },
+  {
+    id: nanoid(),
+    title: "Git",
+    icon: <FaGit className="h-16 w-16 text-violet-600" />,
   },
 ];
 

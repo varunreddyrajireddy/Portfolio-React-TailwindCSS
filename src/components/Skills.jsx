@@ -8,7 +8,7 @@ function Skills() {
       <span className="text-violet-600">
         <SectionTitle text="Tech Stack" />
       </span>
-      <div className=" py-16 grid grid-gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 border-t border-zinc-800">
+      <div className=" py-16 grid grid-gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 border-t border-zinc-800">
         {skills.map((skill) => {
           return <SkillsCard key={skill.id} {...skill} />;
         })}
