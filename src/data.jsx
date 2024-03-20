@@ -16,27 +16,27 @@ export const skills = [
   {
     id: nanoid(),
     title: "HTML5",
-    icon: <FaHtml5 className="h-16 w-16 text-zinc-800" />,
+    icon: <FaHtml5 className="h-16 w-16 text-violet-600" />,
   },
   {
     id: nanoid(),
     title: "CSS",
-    icon: <FaCss3 className="h-16 w-16 text-zinc-800" />,
+    icon: <FaCss3 className="h-16 w-16 text-violet-600" />,
   },
   {
     id: nanoid(),
     title: "Javascript",
-    icon: <FaJs className="h-16 w-16 text-zinc-800" />,
+    icon: <FaJs className="h-16 w-16 text-violet-600" />,
   },
   {
     id: nanoid(),
-    title: "React",
-    icon: <FaReact className="h-16 w-16 text-zinc-800" />,
+    title: "React.js",
+    icon: <FaReact className="h-16 w-16 text-violet-600" />,
   },
   {
     id: nanoid(),
-    title: "NodeJs",
-    icon: <FaNodeJs className="h-16 w-16 text-zinc-800" />,
+    title: "Node.js",
+    icon: <FaNodeJs className="h-16 w-16 text-violet-600" />,
   },
 ];
 
@@ -56,7 +56,7 @@ export const projects = [
     url: "https://github.com/varunreddyrajireddy/Task_Manager_API",
     github: "https://github.com/varunreddyrajireddy/Task_Manager_API",
     title: "Task Manager Web App",
-    text: "Task Manager Web application using Node.js, Express.js, Vanilla JavaScript and MongoDB",
+    text: "Task Manager Web application using Node.js, Express.js, JavaScript and MongoDB",
   },
   {
     id: nanoid(),

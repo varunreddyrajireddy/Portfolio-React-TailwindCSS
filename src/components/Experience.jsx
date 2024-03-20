@@ -11,7 +11,7 @@ const Experience = () => {
       </span>
       <div className="">
         <div className="my-4 p-4">
-          <h1 className="font-bold text-2xl font-mono text-zinc-300">
+          <h1 className="font-bold text-2xl font-mono text-amber-400">
             Full Stack Developer,{" "}
             <span className="italic font-normal">Bringwise LLC</span>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2023 - Present
@@ -58,7 +58,7 @@ const Experience = () => {
           </p>
         </div>
         <div className="my-4 p-4">
-          <h1 className="font-bold font-mono text-2xl text-zinc-300">
+          <h1 className="font-bold font-mono text-2xl text-amber-400">
             Frontend Developer - Capstone Project,{" "}
             <span className="italic font-normal">
               Baylor College of Medicine
@@ -81,7 +81,7 @@ const Experience = () => {
           </p>
         </div>
         <div className="my-4 p-4">
-          <h1 className="font-bold text-2xl font-mono text-zinc-300">
+          <h1 className="font-bold text-2xl font-mono text-amber-400">
             Full Stack Developer,{" "}
             <span className="italic font-normal">Global Tech Hiring Ltd </span>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;07/2018 - 05/2021

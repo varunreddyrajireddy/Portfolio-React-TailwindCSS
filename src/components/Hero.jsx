@@ -25,14 +25,14 @@ function Hero() {
               target="_blank"
               rel="noreferrer"
             >
-              <FaLinkedin className="h-8 w-8 text-zinc-300 hover:text-white duration-300 cursor-pointer" />
+              <FaLinkedin className="h-8 w-8 text-zinc-300 hover:text-violet-500 duration-300 cursor-pointer" />
             </a>
             <a
               href="https://github.com/varunreddyrajireddy"
               target="_blank"
               rel="noreferrer"
             >
-              <FaGithub className="h-8 w-8 text-zinc-300 hover:text-white duration-300 cursor-pointer" />
+              <FaGithub className="h-8 w-8 text-zinc-300 hover:text-violet-500 duration-300 cursor-pointer" />
             </a>
           </div>
         </article>

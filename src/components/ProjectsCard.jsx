@@ -10,15 +10,17 @@ function ProjectsCard({ url, img, github, title, text }) {
         alt={title}
         className="w-full object-cover rounded-t-lg h-64"
       />
-      <div className="capitalize p-8">
-        <h2 className="text-xl tracking-wide font-medium">{title}</h2>
+      <div className="p-8">
+        <h2 className="text-xl tracking-wide font-medium text-violet-700">
+          {title}
+        </h2>
         <p className="mt-4 text-zinc-800 leading-loose">{text}</p>
         <div className="mt-4 flex gap-x-4">
           <a href={url} target="_blank" rel="noreferrer">
-            <TbWorldWww className="h-8 w-8 text-zinc-500 hover:text-zinc-800 duration-300" />
+            <TbWorldWww className="h-8 w-8 text-violet-500 hover:text-zinc-800 duration-300" />
           </a>
           <a href={github} target="_blank" rel="noreferrer">
-            <FaGithubSquare className="h-8 w-8 text-zinc-500 hover:text-zinc-800 duration-300" />
+            <FaGithubSquare className="h-8 w-8 text-violet-500 hover:text-zinc-800 duration-300" />
           </a>
         </div>
       </div>
