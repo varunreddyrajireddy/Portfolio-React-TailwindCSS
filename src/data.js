@@ -44,8 +44,9 @@ export const projects = [
   {
     id: nanoid(),
     img: portfolioCover,
-    url: "https://react-projects.netlify.app/",
-    github: "https://github.com/varunreddyrajireddy",
+    url: "https://rajireddyportfolio.netlify.app/",
+    github:
+      "https://github.com/varunreddyrajireddy/Portfolio-React-TailwindCSS",
     title: "Personal Portfolio Website",
     text: "Personal Portfolio Website using React.js and TailwindCSS",
   },
