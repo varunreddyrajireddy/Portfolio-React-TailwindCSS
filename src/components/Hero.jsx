@@ -12,10 +12,12 @@ function Hero() {
             <span className="text-amber-400 font-medium ">Varun Reddy</span>
           </p>
           <p className="text-justify text-zinc-300 pt-2 tracking-tight">
-            I am a dedicated Full Stack Developer with a passion to craft
-            exceptional digital experiences. Thank you for visiting my
-            portfolio, and I look forward to the possibility of working together
-            to create something extraordinary.
+            Full Stack Developer with 3 years of expertise. Skilled in HTML,
+            CSS, JavaScript, React.js, Next.js, NodeJS, Angular, and Express.js.
+            Passionate about building scalable web applications and RESTful
+            APIs. Proficient in MySQL and MongoDB for robust data handling.
+            Specialize in crafting responsive interfaces for exceptional user
+            experiences.
           </p>
           <div className="flex gap-x-5 mt-4">
             <a

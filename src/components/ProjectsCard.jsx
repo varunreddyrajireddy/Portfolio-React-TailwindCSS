@@ -14,7 +14,7 @@ function ProjectsCard({ url, img, github, title, text }) {
         <h2 className="text-xl tracking-wide font-medium">{title}</h2>
         <p className="mt-4 text-zinc-800 leading-loose">{text}</p>
         <div className="mt-4 flex gap-x-4">
-          <a href={url}>
+          <a href={url} target="_blank" rel="noreferrer">
             <TbWorldWww className="h-8 w-8 text-zinc-500 hover:text-zinc-800 duration-300" />
           </a>
           <a href={github} target="_blank" rel="noreferrer">

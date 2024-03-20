@@ -5,7 +5,7 @@ function SkillsCard({ title, icon }) {
     <div className="mb-20 text-center content-center flex flex-wrap justify-around">
       <article>
         <span>{icon}</span>
-        <h4 className="mt-2 font-bold text-zinc-300">{title}</h4>
+        <h4 className="mt-2 font-bold text-zinc-800">{title}</h4>
       </article>
     </div>
   );
