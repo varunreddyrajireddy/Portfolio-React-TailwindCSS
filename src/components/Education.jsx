@@ -6,7 +6,7 @@ const Education = () => {
       className="py-20 -mt-4 mx-auto w-full px-8 bg-zinc-800"
       id="education"
     >
-      <span className="text-zinc-300">
+      <span className="text-violet-400">
         <SectionTitle text="Education" />
       </span>
       <p className="text-zinc-300 font-bold text-xl mt-4">

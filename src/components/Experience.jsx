@@ -6,7 +6,7 @@ const Experience = () => {
       className="pt-20 pb-16 mx-auto w-full px-8 bg-zinc-800"
       id="experience"
     >
-      <span className="text-zinc-300">
+      <span className=" text-violet-400">
         <SectionTitle text="Professional Experience" />
       </span>
       <div className="">
