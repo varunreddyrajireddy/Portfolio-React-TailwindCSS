@@ -11,11 +11,15 @@ const Experience = () => {
       </span>
       <div className="">
         <div className="my-4 p-4">
-          <h1 className="font-bold text-2xl font-mono text-amber-400">
-            Full Stack Developer,{" "}
-            <span className="italic font-normal">Bringwise LLC</span>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 09/2023 - Present
-          </h1>
+          <div className="flex flex-wrap justify-between">
+            <h1 className="font-bold text-2xl font-mono text-amber-400">
+              Full Stack Developer,{" "}
+              <span className="italic font-normal">Bringwise LLC</span>
+            </h1>
+            <h1 className="font-bold text-2xl font-mono text-amber-400">
+              09/2023 - Present
+            </h1>
+          </div>
           <p className="font-mono text-lg text-justify text-zinc-300 mt-8">
             ➢ Created dynamic and adaptive user interfaces with React.js,
             employing hooks and functional components to enhance interactivity
@@ -58,13 +62,17 @@ const Experience = () => {
           </p>
         </div>
         <div className="my-4 p-4">
-          <h1 className="font-bold font-mono text-2xl text-amber-400">
-            Frontend Developer - Capstone Project,{" "}
-            <span className="italic font-normal">
-              Baylor College of Medicine
-            </span>
-            &nbsp;&nbsp;&nbsp;&nbsp;01/2023 - 05/2023
-          </h1>
+          <div className="flex flex-wrap justify-between">
+            <h1 className="font-bold font-mono text-2xl text-amber-400">
+              Front End Developer - Capstone Project,{" "}
+              <span className="italic font-normal">
+                Baylor College of Medicine
+              </span>
+            </h1>
+            <h1 className="font-bold font-mono text-2xl text-amber-400">
+              01/2023 - 05/2023
+            </h1>
+          </div>
           <p className="font-mono text-lg text-justify text-zinc-300 mt-8">
             ➢ Created a web app using AngularJS, TypeScript and Node.JS for
             doctors and patients, which provides information on genes and
@@ -81,11 +89,17 @@ const Experience = () => {
           </p>
         </div>
         <div className="my-4 p-4">
-          <h1 className="font-bold text-2xl font-mono text-amber-400">
-            Full Stack Developer,{" "}
-            <span className="italic font-normal">Global Tech Hiring Ltd </span>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;07/2018 - 05/2021
-          </h1>
+          <div className="flex flex-wrap justify-between">
+            <h1 className="font-bold text-2xl font-mono text-amber-400">
+              Full Stack Developer,{" "}
+              <span className="italic font-normal">
+                Global Tech Hiring Ltd{" "}
+              </span>
+            </h1>
+            <h1 className="font-bold text-2xl font-mono text-amber-400">
+              07/2018 - 05/2021
+            </h1>
+          </div>
           <p className="font-mono text-lg text-justify text-zinc-300 mt-8">
             ➢ Developed interactive user interfaces using React.js, leveraging
             functional components, hooks, and state management to create dynamic
