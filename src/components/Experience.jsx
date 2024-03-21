@@ -14,23 +14,27 @@ const Experience = () => {
           <div className="flex flex-wrap justify-between">
             <h1 className="font-bold text-2xl font-mono text-amber-400">
               Full Stack Developer,{" "}
-              <span className="italic font-normal">Bringwise LLC</span>
+              <span className="italic font-normal">Bringwise LLC - </span>
+              Frisco, Texas, United States
             </h1>
             <h1 className="font-bold text-2xl font-mono text-amber-400">
               09/2023 - Present
             </h1>
           </div>
           <p className="font-mono text-lg text-justify text-zinc-300 mt-8">
-            ➢ Created dynamic and adaptive user interfaces with React.js,
-            employing hooks and functional components to enhance interactivity
-            and responsiveness.
-            <br /> ➢ Designed and implemented complex forms in React.js using
-            controlled components, form validation, and error handling
-            techniques, ensuring data integrity.
-            <br /> ➢ Used React Context API to efficiently manage and share data
-            across components avoiding prop drilling.
+            ➢ Created adaptive user interfaces with React.js, employing hooks
+            and functional components to enhance interactivity and
+            responsiveness.
+            <br /> ➢ Utilized React hooks such as useState, useEffect,
+            useContext to manage component state, side effects, and context
+            data, improving code readability.
             <br /> ➢ Utilized MongoDB, MySQL for data storage, retrieval, and
             manipulation.
+            <br /> ➢ Hands-on experience utilizing essential front-end
+            development tools, including Babel, Webpack, NPM.
+            <br /> ➢ Familiarity with MVC (Model-View-Controller) frameworks,
+            particularly in the context of developing applications using the
+            MERN stack.
             <br /> ➢ Implemented dynamic routing in the React.js application’s
             using react-router-dom.
             <br /> ➢ Developed database schemas and models using Mongoose,
@@ -66,8 +70,9 @@ const Experience = () => {
             <h1 className="font-bold font-mono text-2xl text-amber-400">
               Front End Developer - Capstone Project,{" "}
               <span className="italic font-normal">
-                Baylor College of Medicine
+                Baylor College of Medicine -{" "}
               </span>
+              Houston, Texas, United States
             </h1>
             <h1 className="font-bold font-mono text-2xl text-amber-400">
               01/2023 - 05/2023
@@ -93,8 +98,9 @@ const Experience = () => {
             <h1 className="font-bold text-2xl font-mono text-amber-400">
               Full Stack Developer,{" "}
               <span className="italic font-normal">
-                Global Tech Hiring Ltd{" "}
+                Global Tech Hiring Ltd -{" "}
               </span>
+              Hyderabad, Telangana, India
             </h1>
             <h1 className="font-bold text-2xl font-mono text-amber-400">
               07/2018 - 05/2021
@@ -107,9 +113,8 @@ const Experience = () => {
             <br /> ➢ Implemented reusable higher-order components (HOCs) to
             encapsulate common functionalities and behaviors, promoting code
             reusability and maintainability.
-            <br /> ➢ Utilized React hooks such as useState, useEffect,
-            useContext to manage component state, side effects, and context
-            data, improving code readability.
+            <br /> ➢ Used React Context API to efficiently manage and share data
+            across components avoiding prop drilling.
             <br /> ➢ Designed and implemented complex forms in React.js using
             controlled components, form validation, and error handling
             techniques, ensuring data integrity.
