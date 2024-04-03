@@ -49,20 +49,6 @@ const Experience = () => {
             <br /> ➢ Implemented user authentication and authorization
             functionalities using JWT tokens , ensuring secure access to
             sensitive data and endpoints.
-            <br /> ➢ Implemented server-side rendering (SSR) , delivering
-            dynamic and SEO-friendly web pages with improved performance and
-            user experience.
-            <br /> ➢ Implemented real-time communication features using Web
-            Sockets (e.g., Socket.io), enabling instant messaging and live
-            updates within the application.
-            <br /> ➢ Integrated Next.js for server-side rendering (SSR) and
-            dynamic content generation, improving SEO performance and user
-            experience through faster page loads and optimized content delivery.
-            <br />➢ Utilized Next.js SSG to pre-render static pages at build
-            time, resulting in optimized load times and reduced server load.
-            <br /> ➢ Implemented dynamic routes using Next.js file-based
-            routing, allowing for dynamic parameterized URLs and flexible page
-            rendering.
           </p>
         </div>
         <div className="my-4 p-4">
