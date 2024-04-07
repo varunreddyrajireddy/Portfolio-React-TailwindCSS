@@ -13,6 +13,7 @@ import {
 } from "react-icons/fa";
 import portfolioCover from "./assets/portfolioProjectCover.png";
 import taskManagerAPI from "./assets/taskManagerAPI.png";
+import mernTaskManagerImage from "./assets/MERN-TaskManager_Image.jpg";
 import storeApi from "./assets/storeAPI.svg";
 
 export const links = [
@@ -77,6 +78,14 @@ export const skills = [
 ];
 
 export const projects = [
+  {
+    id: nanoid(),
+    img: mernTaskManagerImage,
+    url: "https://github.com/varunreddyrajireddy/MERN_Task-Manager_App",
+    github: "https://github.com/varunreddyrajireddy/MERN_Task-Manager_App",
+    title: "Personalized Task Manager Web App using MERN Stack",
+    text: "Personalized task manager web app using MERN stack with user authentication and authorization",
+  },
   {
     id: nanoid(),
     img: portfolioCover,

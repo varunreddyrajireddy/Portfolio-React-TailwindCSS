@@ -13,7 +13,7 @@ function Hero() {
           </p>
           <p className="text-justify text-zinc-300 pt-2 tracking-tight">
             Full Stack Developer with 3 years of expertise. Skilled in HTML,
-            CSS, JavaScript, React.js, Next.js, NodeJS, Angular, and Express.js.
+            CSS, JavaScript, React.js, NodeJS, Angular, and Express.js.
             Passionate about building scalable web applications and RESTful
             APIs. Proficient in MySQL and MongoDB for robust data handling.
             Specialize in crafting responsive interfaces for exceptional user
