@@ -11,9 +11,9 @@ function About() {
             <SectionTitle text="About me" />
           </span>
           <p className="text-zinc-800 mt-1 leading-loose text-justify tracking-tighter">
-            I&#39;m a passionate Full Stack Developer with 3-years of hands-on
-            experience, I specialize in building dynamic and user-friendly web
-            applications using{" "}
+            I&#39;m a passionate Full Stack Developer with over 1 year of
+            hands-on experience, I specialize in building dynamic and
+            user-friendly web applications using{" "}
             <span className="font-extrabold">HTML, CSS, and JavaScript</span>,
             with an emphasis on{" "}
             <span className="font-extrabold">ReactJS, NodeJS</span> building

@@ -79,7 +79,7 @@ const Experience = () => {
             <br /> ➢ Hosted on Amazon EC2 with Nginx for global accessibility.
           </p>
         </div>
-        <div className="my-4 p-4">
+        {/* <div className="my-4 p-4">
           <div className="flex flex-wrap justify-between">
             <h1 className="font-bold text-2xl font-mono text-amber-400">
               Full Stack Developer,{" "}
@@ -114,7 +114,7 @@ const Experience = () => {
             <br /> ➢ Utilized Express.js routers for modular organization of API
             routes, enhancing code readability.
           </p>
-        </div>
+        </div> */}
       </div>
     </section>
   );
