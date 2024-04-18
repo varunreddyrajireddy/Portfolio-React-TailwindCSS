@@ -12,7 +12,7 @@ function Hero() {
             <span className="text-amber-400 font-medium ">Varun Reddy</span>
           </p>
           <p className="text-justify text-zinc-300 pt-2 tracking-tight">
-            Full Stack Developer with over 1 year of experience. Skilled in
+            Full Stack Developer with around 3 years of experience. Skilled in
             HTML, CSS, JavaScript, React.js, NodeJS, Angular, and Express.js.
             Passionate about building scalable web applications and RESTful
             APIs. Proficient in MySQL and MongoDB for robust data handling.
