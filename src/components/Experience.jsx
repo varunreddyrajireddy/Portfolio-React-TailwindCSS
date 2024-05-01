@@ -89,7 +89,7 @@ const Experience = () => {
               Hyderabad, Telangana, India
             </h1>
             <h1 className="font-bold text-2xl font-mono text-amber-400">
-              07/2018 - 05/2021
+              07/2019 - 05/2021
             </h1>
           </div>
           <p className="font-mono text-lg text-justify text-zinc-300 mt-8">
@@ -99,7 +99,7 @@ const Experience = () => {
             React Context API for code modularity and efficient data management.
             <br /> ➢ Designed complex forms with controlled components and
             validation techniques in React.js to ensure data integrity.
-            <br /> ➢Integrated react-router-dom for declarative routing within
+            <br /> ➢ Integrated react-router-dom for declarative routing within
             SPAs, enhancing UI navigation and flow.
             <br /> ➢ Collaborated with UI/UX designers to ensure responsive
             designs and cross-browser compatibility.

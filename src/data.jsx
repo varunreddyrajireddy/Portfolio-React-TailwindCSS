@@ -5,8 +5,10 @@ import {
   FaCss3,
   FaGit,
   FaHtml5,
+  FaJava,
   FaJs,
   FaNodeJs,
+  FaPython,
   FaReact,
 } from "react-icons/fa";
 import portfolioCover from "./assets/portfolioProjectCover.png";
@@ -48,21 +50,21 @@ export const skills = [
     title: "Node.js",
     icon: <FaNodeJs className="h-16 w-16 text-violet-600" />,
   },
-  // {
-  //   id: nanoid(),
-  //   title: "Java",
-  //   icon: <FaJava className="h-16 w-16 text-violet-600" />,
-  // },
+  {
+    id: nanoid(),
+    title: "Java",
+    icon: <FaJava className="h-16 w-16 text-violet-600" />,
+  },
   {
     id: nanoid(),
     title: "Angular",
     icon: <FaAngular className="h-16 w-16 text-violet-600" />,
   },
-  // {
-  //   id: nanoid(),
-  //   title: "Python",
-  //   icon: <FaPython className="h-16 w-16 text-violet-600" />,
-  // },
+  {
+    id: nanoid(),
+    title: "Python",
+    icon: <FaPython className="h-16 w-16 text-violet-600" />,
+  },
   {
     id: nanoid(),
     title: "AWS EC2",
